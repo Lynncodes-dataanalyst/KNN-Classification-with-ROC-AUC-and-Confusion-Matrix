@@ -34,7 +34,7 @@ Installation
 
 Clone this repo and install dependencies:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Lynncodes-dataanalyst/KNN-Classification-with-ROC-AUC-and-Confusion-Matrix
 cd your-repo
 pip install -r requirements.txt
 
